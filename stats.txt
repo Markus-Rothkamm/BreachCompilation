@@ -1,0 +1,2 @@
+Amount of unique passwords:450561403
+Amount of passwords:1394717667
